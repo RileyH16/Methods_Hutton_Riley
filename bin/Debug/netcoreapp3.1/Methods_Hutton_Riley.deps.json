@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Methods_Hutton_Riley/1.0.0": {
+        "runtime": {
+          "Methods_Hutton_Riley.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods_Hutton_Riley/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
